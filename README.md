@@ -267,3 +267,15 @@ Use a lecture of at least 1–2 minutes, ideally one you already have notes, fla
 ## Next phase
 
 Add persistent storage, accounts, and background jobs on the backend (lectures currently live in each browser), and move long-running AI work to a queue. The current API is a minimal local prototype. Do not expose it publicly without authentication, upload limits, and request controls.
+
+## Author
+
+**Yuvraj Gupta**
+
+GitHub: https://github.com/Yuvrajgupta18/AI-Video-to-Study-Kit-Analyzer/edit/main/README.md
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+Copyright © 2026 Yuvraj Gupta
