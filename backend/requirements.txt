@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+faster-whisper
+# faster-whisper 1.2.1 passes `metadata_errors` to av.open(), which PyAV 19 removed.
+av<19
+python-dotenv
+google-genai
+# Lecture assistant (RAG): embeddings + vector database. sentence-transformers installs PyTorch.
+sentence-transformers
+chromadb
